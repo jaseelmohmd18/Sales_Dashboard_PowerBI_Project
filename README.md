@@ -40,3 +40,5 @@ The data for this project comes from sales-related datasets, typically including
 
 6. Screenshot  / Demo
 
+https://github.com/jaseelmohmd18/Sales_Dashboard_PowerBI_Project/blob/main/Snapshot%20of%20the%20Dashboard%202.png
+
